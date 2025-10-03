@@ -2407,3 +2407,5 @@ The rules we (try to) respect are the followings:
 [210]: https://common-lisp.net/project/linedit/license.html
 [agpl3]: https://directory.fsf.org/wiki/License:AGPL-3.0
 [211]: http://mozilla.org/MPL/2.0/
+
+<!-- Auto-update: 2025-10-03T13:25:51.293978 -->
